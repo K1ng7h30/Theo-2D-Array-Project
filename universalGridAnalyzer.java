@@ -381,12 +381,9 @@ public class universalGridAnalyzer
                 {
                     status= true;
                     System.out.println(status + "Duplicate found at row "+ r);
-
                 }
             }
         }
         return status;
-
     }
-}
  
