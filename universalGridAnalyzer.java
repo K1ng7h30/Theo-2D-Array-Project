@@ -78,7 +78,6 @@ public class universalGridAnalyzer
             else if (choice == 7) 
             {
                 table.transformGrid();
-                table.displayGrid();
             } 
             else if (choice == 8) 
             {
